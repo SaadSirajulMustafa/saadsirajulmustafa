@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Saad 👋
 
 # 💫 About Me:
-- Data Science & AI Student 
-- IT & Python Enthusiast
+### Aspiring Data Science & AI professional 
 
 🔭 I’m currently working on data strategy documents, MongoDB projects, AI/ML assignments, and automation scripts.<br>🌱 I’m currently learning advanced data handling, Python automation, ML model tuning, and project portfolio best practices.<br>👯 I’m looking to collaborate on academic projects and small-scale AI/ML experiments.<br>⚡ Fun fact: I can turn a messy Excel sheet into a structured, automated workflow in a short time.
 
