@@ -38,18 +38,28 @@ Here are some ideas to get you started:
 
 ## 🔥 Streak Stats
 
-![](https://streak-stats.demolab.com?user=saadsirajulmustafa&theme=dark)
+<div  align="center"> 
+  
+  ![](https://streak-stats.demolab.com?user=saadsirajulmustafa&theme=dark)
+
+</div>
 
 ---
 
 ## 📊 GitHub Overview
 
+<div  align="center"> 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadsirajulmustafa&theme=github_dark)
+
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
+
+<div  align="center"> 
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
-
+</div>
