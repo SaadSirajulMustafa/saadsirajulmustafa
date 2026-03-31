@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Saad 👋
 
-# About Me:
 ### Aspiring Data Science & AI professional 
 
 - I’m currently working on data strategy documents, MongoDB projects, AI/ML assignments, and automation scripts.<br>
